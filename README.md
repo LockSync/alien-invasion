@@ -1,2 +1,2 @@
-# PythonProject
+# alien invasion game
 alien invasion
